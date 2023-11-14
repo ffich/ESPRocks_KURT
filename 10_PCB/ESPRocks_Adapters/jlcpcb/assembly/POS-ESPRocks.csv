@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+CN1,D_E_3_Ad_In,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,75.9068,-148.892,-90.0,top
+CN2,D_E_Ad_Out_1,PinSocket_1x04_P2.54mm_Vertical,89.9918,-147.6348,0.0,top
+CN3,D_E_Ad_Out_2,PinSocket_1x03_P2.54mm_Vertical,83.591,-150.1798,0.0,top
+CN10,A_Ad_In,JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal,76.085,-67.9554,-90.0,top
+CN11,C_Ad_In,JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal,76.1612,-93.1804,-90.0,top
+CN12,D_E_2_Ad_In,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,76.2882,-131.1374,-90.0,top
+CN13,D_E_1_Ad_In,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,75.9972,-113.2304,-90.0,top
+CN14,A_Ad_Out_1,PinSocket_1x09_P2.54mm_Vertical,85.8012,-62.3824,0.0,top
+CN15,A_Ad_Out_2,PinSocket_1x06_P2.54mm_Vertical,95.3012,-64.9474,0.0,top
+CN16,C_Ad_Out_2,PinSocket_1x05_P2.54mm_Vertical,94.0562,-91.4954,0.0,top
+CN17,C_Ad_Out_1,PinSocket_1x05_P2.54mm_Vertical,85.1912,-91.4954,0.0,top
+CN18,D_E_Ad_Out_1,PinSocket_1x04_P2.54mm_Vertical,83.1592,-112.41,0.0,top
+CN19,D_E_Ad_Out_2,PinSocket_1x04_P2.54mm_Vertical,90.2466,-112.4204,0.0,top
+CN20,D_E_Ad_Out_1,PinSocket_1x03_P2.54mm_Vertical,83.2362,-132.6134,0.0,top
+CN21,D_E_Ad_Out_2,PinSocket_1x03_P2.54mm_Vertical,90.2212,-132.6284,0.0,top

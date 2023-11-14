@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+A_Ad_Out_1,CN14,PinSocket_1x09_P2.54mm_Vertical,C124417
+D_E_Ad_Out_1,"CN20,CN21,CN3",PinSocket_1x03_P2.54mm_Vertical,C146243
+A_Ad_In,CN10,JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal,C157915
+C_Ad_In,CN11,JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal,C157923
+D_E_3_Ad_In,"CN1,CN12,CN13",JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,C157926
+D_E_Ad_Out_1,"CN18,CN19,CN2",PinSocket_1x04_P2.54mm_Vertical,C2718488
+A_Ad_Out_2,CN15,PinSocket_1x06_P2.54mm_Vertical,C40877
+C_Ad_Out_2,"CN16,CN17",PinSocket_1x05_P2.54mm_Vertical,C50950
