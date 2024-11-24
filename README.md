@@ -1,5 +1,5 @@
 # ESPRocks
-ESPRocks are Open Source development boards that I designed in collaborartion with Vincenzo Cacciatore. They are based on ESP32 modules designed to help DIY developers to create reliable and flexible home automation systems with ease - with no soldering.
+ESPRocks are Open Source development boards that I designed in collaborartion with [Vincenzo Cacciatore](https://github.com/caccia78). They are based on ESP32 modules designed to help DIY developers to create reliable and flexible home automation systems with ease - with no soldering.
 
 # Kurt
 Kurt is a development board designed with an ESP32 module from Espressif that allows connection of any device used in DIY projects without needs for soldering by simply using the set of adapters provided with the board.
