@@ -49,4 +49,4 @@ The main advantages of using Kurt are:
 - easy pinout reading on boards and adapters (no need to read datasheet)
 - clean design of your project
 
-Have a look to the KURT configuration page made by Vincenzo Cacciatore: https://www.esprocks.it/kurt/configurator
+Have a look to the KURT configuration page: https://www.esprocks.it/kurt/configurator
